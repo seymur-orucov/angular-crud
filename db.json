@@ -1,0 +1,50 @@
+{
+  "product-list": [
+    {
+      "productName": "Daria Pitts",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 907,
+      "comment": "Qui aperiam doloribu",
+      "date": "2020-08-27T20:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Price Oneill",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 539,
+      "comment": "Nisi occaecat culpa",
+      "date": "2014-02-22T20:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Griffith Vaughan",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 497,
+      "comment": "Dolores amet evenie",
+      "date": "2015-04-08T19:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Clark Barlow",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 60,
+      "comment": "Deserunt deserunt ev",
+      "date": "1975-05-12T20:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
